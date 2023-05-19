@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3419f67-ca8c-440e-b135-82db278bb8d9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q0pNxtB6QXOrnVWZXjIQYKeDgV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "onboarding.tips.debug.path": "C:/Users/Riya Patel/IdeaProjects/java_programmes-week-1/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Programme_10_ProductOfTwoNumbers">
+    <configuration name="Programme_10_ProductOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_week_5.Programme_10_ProductOfTwoNumbers" />
+      <module name="java_programmes-week-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_week_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programme_6_AmericanFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_week_5.Programme_6_AmericanFlag" />
+      <module name="java_programmes-week-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_week_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programme_7_SumOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_week_5.Programme_7_SumOfTwoNumbers" />
+      <module name="java_programmes-week-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_week_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programme_8_DivisionOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_week_5.Programme_8_DivisionOfTwoNumbers" />
+      <module name="java_programmes-week-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_week_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programme_9_MixedOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_week_5.Programme_9_MixedOperations" />
+      <module name="java_programmes-week-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_week_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Programme_10_ProductOfTwoNumbers" />
+        <item itemvalue="Application.Programme_9_MixedOperations" />
+        <item itemvalue="Application.Programme_8_DivisionOfTwoNumbers" />
+        <item itemvalue="Application.Programme_7_SumOfTwoNumbers" />
+        <item itemvalue="Application.Programme_6_AmericanFlag" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3419f67-ca8c-440e-b135-82db278bb8d9" name="Changes" comment="" />
+      <created>1684500319339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684500319339</updated>
+    </task>
+    <servers />
+  </component>
+</project>
